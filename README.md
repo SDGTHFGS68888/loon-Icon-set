@@ -2,7 +2,7 @@
 A custom icon set for Loon proxy app.
 
 ## Preview
-![Preview](preview.jpg)
+![Preview](iDaily.png)
 
 ## How to Use
 1. Copy the icon links from this repository.
